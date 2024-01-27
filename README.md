@@ -19,7 +19,7 @@ This project focuses on predicting sports budget allocations based on historical
 
 3. **User Interface:** The integration of Gradio provides an interactive and intuitive interface for users to predict sports budget allocations for a given future year.
 
-# Intel OneAPI Readme
+# Intel OneAPI 
 
 ![images](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/0136fc2a-e10a-4588-9b88-31e05d386ca2)
 
