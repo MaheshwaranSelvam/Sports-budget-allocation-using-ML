@@ -47,6 +47,29 @@ python your_script_name.py
 ```
 
 Access the provided URL in your web browser to interact with the prediction interface.
+Data Preparation:
+
+Loading the dataset (budget_allocation_for_sports.csv).
+Cleaning the data by converting the budget allocation column to numeric values.
+Extracting the numerical year from the 'Years' column.
+Linear Regression Model:
+
+Training a Linear Regression model on the dataset.
+Evaluating the model's accuracy using mean squared error.
+Decision Tree Model:
+
+Training a Decision Tree Regression model on the same dataset.
+Evaluating the model's accuracy using mean squared error.
+Random Forest Model:
+
+Training a Random Forest Regression model on the dataset.
+Evaluating the model's accuracy using mean squared error.
+Gradio Integration:
+
+Using Gradio to create a simple user interface for predicting the budget for a future year based on the Linear Regression model.
+Additional Installations:
+
+Installing necessary libraries such as gradio, typing_extensions, pydantic, fastapi, and scikit-learn-intelex.
 
 ## Contribution Guidelines
 
