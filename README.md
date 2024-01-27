@@ -1,6 +1,11 @@
 # Sports-budget-allocation-using-ML
+
+(https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/b21c90a9-9e2b-4dff-98e9-fe205a567372)
+
 # Sports Budget Allocation Prediction
 This project focuses on predicting the budget allocation for sports based on historical data. The predictive model utilizes linear regression and is deployed through a Gradio interface, allowing users to forecast the budget for a future year.
+
+(https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/aa276c17-af4b-44f1-84a2-2255d0342d33)
 
 ## Overview
 
@@ -15,6 +20,8 @@ This project focuses on predicting sports budget allocations based on historical
 3. **User Interface:** The integration of Gradio provides an interactive and intuitive interface for users to predict sports budget allocations for a given future year.
 
 # Intel OneAPI Readme
+
+(https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/0136fc2a-e10a-4588-9b88-31e05d386ca2)
 
 ## Introduction
 
@@ -98,6 +105,8 @@ Follow these steps to optimize your code:
 - The dataset (`budget_allocation_for_sports.csv`) is loaded and cleaned, converting the budget allocation column to numeric values.
 
 - The numerical year is extracted from the 'Years' column to enhance the model's understanding of the temporal aspect.
+
+  (https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/983dd52f-fa7f-4538-b4de-9ec365292a9c)
 
 ### Linear Regression Model
 
