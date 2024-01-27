@@ -40,6 +40,28 @@ This project focuses on predicting sports budget allocations based on historical
 
 - The model's accuracy is measured using mean squared error.
 
+## Why Prefer Linear Regression Model?
+
+### Linear Regression Advantages
+
+Linear Regression is chosen as the baseline model for the following reasons:
+
+1. **Interpretability:** Linear Regression provides clear interpretability, allowing stakeholders to understand the relationship between the numerical year and budget allocation in a straightforward manner.
+
+2. **Simplicity:** Linear Regression is a simple and easy-to-understand model, making it suitable for initial predictions and as a reference point for more complex models.
+
+3. **Linearity:** The assumption of a linear relationship between the input features and the target variable aligns with the nature of budget allocation trends, making it a reasonable choice.
+
+4. **Training Speed:** Linear Regression typically trains faster compared to more complex models like Decision Trees or Random Forests, contributing to efficient model development.
+
+While Linear Regression serves as the initial model, the project offers the flexibility to explore more complex models for improved predictive performance based on specific requirements.
+
+### Linear Regression Model Accuracy
+
+- A Linear Regression model is trained on the dataset, and its accuracy is evaluated using mean squared error.
+
+- The model's accuracy serves as a reference point for comparing the performance of more complex models in the project.
+
 ### Gradio Interface Integration
 
 - Gradio is utilized to create an interactive user interface, allowing users to input a future year and receive predictions for the corresponding sports budget allocation.
