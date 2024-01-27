@@ -21,7 +21,8 @@ This project focuses on predicting sports budget allocations based on historical
 
 # Intel OneAPI 
 
-![images](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/0136fc2a-e10a-4588-9b88-31e05d386ca2)
+![download](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/53a2e65a-da15-447a-a9c6-3c7022f368bd)
+
 
 ## Introduction
 
@@ -68,6 +69,8 @@ Ensure you have the following prerequisites installed before using Intel OneAPI:
 - **OpenMP:** Standard for parallel programming in C, C++, and Fortran.
 
 ## Support and Community
+
+![intel-logo-cpu-corporation-intel-logo-wallpaper-preview](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/b84792c4-b334-4519-888e-67112aa2460d)
 
 - **Intel DevMesh:** Engage with the community, ask questions, and share your experiences on the Intel DevMesh forum.
 
