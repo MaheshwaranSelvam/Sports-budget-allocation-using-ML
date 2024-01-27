@@ -193,7 +193,51 @@ Run the script to launch the Gradio interface:
 ```bash
 python your_script_name.py
 ```
-## output for this project
+//
+
+Predicting Sports Budget - Workflow
+
+Kaggle Setup
+
+Install Kaggle API
+Upload Kaggle API key (kaggle.json)
+Set up Kaggle credentials
+List available datasets on Kaggle
+Download dataset (predicting-sports-budget-india.zip)
+Unzip downloaded dataset
+Data Preprocessing and Model Training
+
+Linear Regression Model
+
+Install scikit-learn-intelex
+Import necessary libraries and patch scikit-learn
+Load and preprocess the dataset
+Train the Linear Regression model
+Decision Tree Model
+
+Load and preprocess the dataset
+Train the Decision Tree model
+Random Forest Model
+
+Load and preprocess the dataset
+Train the Random Forest model
+Gradio Setup
+
+Install Gradio
+Install required packages (typing_extensions, gradio, pydantic, fastapi)
+Load the Linear Regression model
+Create a Gradio interface
+Launch the Gradio interface
+Running the Code
+
+Execute Kaggle setup steps
+Run Data Preprocessing and Model Training steps for each model
+Run Gradio Setup steps to set up the web interface
+Execute the Gradio interface to make predictions interactively
+
+//
+
+## Output for this project
 ![Screenshot (103)](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/7db5701f-e357-4b99-8a99-068b8a43c029)
 
 https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/a9de3551-ec3a-40bb-8c07-fdd68328f49d
