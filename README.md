@@ -14,6 +14,83 @@ This project focuses on predicting sports budget allocations based on historical
 
 3. **User Interface:** The integration of Gradio provides an interactive and intuitive interface for users to predict sports budget allocations for a given future year.
 
+# Intel OneAPI Readme
+
+## Introduction
+
+Welcome to the Intel OneAPI toolkit, a unified programming model designed to simplify application development across diverse Intel architectures. This toolkit provides a comprehensive set of libraries, compilers, and tools, allowing developers to create high-performance applications for CPUs, GPUs, and FPGAs.
+
+## Prerequisites
+
+Ensure you have the following prerequisites installed before using Intel OneAPI:
+
+- **Supported Platforms:** Intel OneAPI supports a variety of platforms, including CPUs, GPUs, and FPGAs. Check the documentation for the list of supported platforms.
+
+- **Intel OneAPI Toolkit:** Download and install the latest version of the Intel OneAPI Toolkit from the official Intel website.
+
+- **License:** Ensure that you have the appropriate license for Intel OneAPI. Follow the licensing instructions provided by Intel.
+
+## Features and Components
+
+### 1. Intel Compilers
+
+- **DPC++ Compiler:** The Data Parallel C++ (DPC++) compiler supports heterogeneous programming across CPUs, GPUs, and FPGAs.
+
+- **Fortran Compiler:** The Fortran compiler provides support for modern Fortran standards.
+
+### 2. Intel Libraries
+
+- **Intel Math Kernel Library (MKL):** Optimized mathematical functions for linear algebra, FFT, and more.
+
+- **Intel Integrated Performance Primitives (IPP):** Library for multimedia, data processing, and cryptography.
+
+- **Intel Threading Building Blocks (TBB):** C++ library for parallel programming.
+
+### 3. Intel VTune Profiler
+
+- **VTune Profiler:** Analyze application performance and identify bottlenecks with this powerful profiling tool.
+
+### 4. Intel Advisor
+
+- **Intel Advisor:** Guide the design and optimization of parallel programs.
+
+### 5. Compatibility and Standards
+
+- **SYCL:** A standard C++ language extension for heterogeneous computing.
+
+- **OpenMP:** Standard for parallel programming in C, C++, and Fortran.
+
+## Support and Community
+
+- **Intel DevMesh:** Engage with the community, ask questions, and share your experiences on the Intel DevMesh forum.
+
+- **Intel Support:** For technical assistance and issue resolution, visit the Intel support website.
+
+## License
+
+Intel OneAPI is subject to licensing agreements. Review the license terms provided by Intel to ensure compliance.
+
+# Intel OneAPI Optimization Guide
+
+## Introduction
+Intel OneAPI is a unified programming model that enables developers to write code that can run efficiently on various Intel architectures.
+
+## Prerequisites
+
+Before optimizing your code, make sure you have the following:
+
+- **Intel OneAPI Toolkit:** Download and install the Intel OneAPI Toolkit from the official Intel website.
+
+## Optimization Steps
+
+Follow these steps to optimize your code:
+### 1. Compiler Flags
+### 2. Vectorization
+### 3. Threading
+### 4. Memory Alignment
+### 5. Intel Math Kernel Library (MKL)
+### 6. Profiling
+
 ## Process
 
 ### Data Preparation
@@ -107,6 +184,11 @@ Run the script to launch the Gradio interface:
 ```bash
 python your_script_name.py
 ```
+## output for this project
+![Screenshot (103)](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/7db5701f-e357-4b99-8a99-068b8a43c029)
+
+https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/a9de3551-ec3a-40bb-8c07-fdd68328f49d
+
 
 ## Contribution Guidelines
 
