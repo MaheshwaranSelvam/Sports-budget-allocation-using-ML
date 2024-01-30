@@ -239,7 +239,9 @@ python your_script_name.py
 ---
 
 ## Output for this project
-![Screenshot (103)](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/7db5701f-e357-4b99-8a99-068b8a43c029)
+
+
+![Screenshot (63)](https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/7f828de8-bcbc-40d4-b55a-1abbc6c25d08)
 
 
 https://github.com/MaheshwaranSelvam/Sports-budget-allocation-using-ML/assets/115611481/ec68ee28-56c7-49b7-a30a-942a910f3906
